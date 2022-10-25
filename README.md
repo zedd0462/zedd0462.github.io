@@ -1,1 +1,2 @@
-# zedd0462.github.io
+# fadel_portfolio
+just my first try to do a portfolio :v 
